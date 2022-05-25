@@ -1,6 +1,5 @@
-# Shopify challenge for Fall 2022
+# Fun with AI
 
-Shopify technical challenge for Fall 2022 front-end role.
 Hosted at https://shopify-fe-fall22.netlify.app/
 
 
@@ -8,5 +7,5 @@ Hosted at https://shopify-fe-fall22.netlify.app/
 
 Sign up for a free API key from OpenAI - https://beta.openai.com/signup.
 Clone this repo. Run npm install.
-Now store the API key you signed up for in your app and run npm start. App should be available at localhost:3000
+Now store the API key you signed up for in your .env file as REACT_APP_API_KEY and run npm start. App should be available at localhost:3000
 
