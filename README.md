@@ -1,6 +1,6 @@
 # Fun with AI
 
-Hosted at https://shopify-fe-fall22.netlify.app/
+Hosted at https://chat-with-ai.netlify.app/
 
 
 # To run this app on your local
